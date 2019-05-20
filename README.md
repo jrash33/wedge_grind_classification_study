@@ -15,4 +15,3 @@ Steps:
 
 3. Fit same players to optimal grind performance
 - Evaluate algorithm accuracy
-

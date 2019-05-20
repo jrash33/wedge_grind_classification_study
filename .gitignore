@@ -1,0 +1,10 @@
+#hide data files for confidentiality
+data_all_days.xlsx
+data_all_days_dummy_grinds.csv
+data_all_days_dummy_grinds.xlsx
+data_all_days2.xlsx
+raw combined_all.xlsx
+
+#hide presentation
+analysispresentation.pptx
+Project Proposal.pptx
